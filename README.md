@@ -2,7 +2,7 @@
 # Cinema service
 
 ### Project description:
-This is a simple cinema service web application where we can do reservation tickets, authenticate or registration user and execute CRUD operations.
+This is a simple cinema service web application for cinema networks. Using that we can do reservation tickets, authenticate or registration user and execute CRUD operations. There we have two types of users: Admin and user(customer), which of them has its own authority for the execution of different operations. 
 
 
 ![Logo](https://static.miraheze.org/avidwiki/thumb/f/fd/Cinema_Service_%28%EC%8B%9C%EB%84%A4%EB%A7%88%EC%84%9C%EB%B9%84%EC%8A%A4%29_-_2001.jpg/350px-Cinema_Service_%28%EC%8B%9C%EB%84%A4%EB%A7%88%EC%84%9C%EB%B9%84%EC%8A%A4%29_-_2001.jpg)
@@ -31,7 +31,7 @@ This is a simple cinema service web application where we can do reservation tick
 
 ## Tech Stack
 
-Java, Spring, Maven, Tomcat, MySQL
+Java17, Spring 6.0, Spring Security 6.0.1,  Maven 4.0.0, Hibernate 6.1, JSP 4.0.1, Tomcat 9.0.50, MySQL 8.0.28
 
 
 
